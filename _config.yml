@@ -71,7 +71,6 @@ aux_links:
     ################################################## [수정한 내용] ##################################################
     #- "//github.com/pmarsceill/just-the-docs"
     - "//github.com/Kdh139898/just-the-docs"
-	##################################################################################################################
 	
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
