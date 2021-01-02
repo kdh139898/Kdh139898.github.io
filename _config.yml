@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Just the Docs
 description: A Jekyll theme for documentation
-################################################## [수정한 내용] ##################################################
+## [수정내용]
 #baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog 
 #url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/"
 url: "https://Kdh139898.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-##################################################################################################################
+
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
@@ -68,7 +68,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Just the Docs on GitHub":
-    ################################################## [수정한 내용] ##################################################
+    ## [수정내용]
     #- "//github.com/pmarsceill/just-the-docs"
     - "//github.com/Kdh139898/just-the-docs"
 	
@@ -97,10 +97,10 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-################################################## [수정한 내용] ##################################################
+## [수정내용]
 #gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
 gh_edit_repository: "https://github.com/Kdh139898/just-the-docs" # the github URL for your repo
-##################################################################################################################
+
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
